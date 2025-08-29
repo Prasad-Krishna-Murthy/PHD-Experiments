@@ -1,0 +1,6 @@
+streamlit
+librosa
+matplotlib
+pandas
+speechbrain
+torch
